@@ -8,14 +8,15 @@ Welcome to Scrawl, the comfortable place to write. Scrawl was made by writers, f
 Scrawl is made so that writing is easier for you. It allows you to concentrate more without having to switch between tool tabs and search for tools. Scrawl only has the tools that you need to write succesfully.
 
 <strong> Pros and Cons of Using Scrawl <strong>
+  
+ <i> Pros <i>
 
-  <i> Pros <i>
+  Scrawl is made so that you can stay on task while writing while having fun and being able to customize your script.
+  
+  While other programs were made for business and money, Scrawl was made with easy writing as the main goal.
+  
+ <i> Cons <i>
 
-  <font color= "dark blue"> Scrawl is made so that you can stay on task while writing while having fun and being able to customize your script.
-  While other programs were made for business and money, Scrawl was made with easy writing as the main goal. </font>
- 
-  <i> Cons <i>
-
-  <font color= "dark blue"> While some of the more known writing softwares are fully complete, Scrawl is still being updated and developed to ensure that you get the best program possible.
+  While some of the more known writing softwares are fully complete, Scrawl is still being updated and developed to ensure that you get the best program possible.
   
   At the moment, Scrawl is in it's testing state, however, the Scrawl Team is working on making this program one of the best writing softwares around!
