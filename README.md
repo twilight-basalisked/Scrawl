@@ -16,5 +16,6 @@ Scrawl is made so that writing is easier for you. It allows you to concentrate m
  
   <i> Cons <i>
 
-  <font colour= "dark blue"> While some of the more known writing softwares are fully complete, Scrawl is still being updated and developed to ensure that you get the best program possible.
-  Scrawl was made by one person (who, by the way, is only fourteen). </font>
+  <font color= "dark blue"> While some of the more known writing softwares are fully complete, Scrawl is still being updated and developed to ensure that you get the best program possible.
+  
+  At the moment, Scrawl is in it's testing state, however, the Scrawl Team is working on making this program one of the best writing softwares around!
